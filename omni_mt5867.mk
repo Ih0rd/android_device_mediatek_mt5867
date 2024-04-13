@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/mediatek/mt5867/device.mk)
 
 PRODUCT_DEVICE := mt5867
-PRODUCT_NAME := omni_mt5867
+PRODUCT_NAME := twrp_mt5867
 PRODUCT_BRAND := MediaTek
 PRODUCT_MODEL := mt5867
 PRODUCT_MANUFACTURER := mediatek
